@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "orta.vscode-jest",
+    "atlassian.atlascode",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode"
+  ]
+}
